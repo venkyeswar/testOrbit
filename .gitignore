@@ -1,0 +1,11 @@
+.env
+node_modules/
+dist/
+.venv/
+__pycache__/
+server/data.json
+*.db
+server/.secret_key
+*.db-wal
+*.db-shm
+*.db-journal
